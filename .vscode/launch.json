@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Solution692",
+            "request": "launch",
+            "mainClass": "nianzhen.Solution692",
+            "projectName": "dailyLeetcode_a58b3d5b"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HelloWorld",
+            "request": "launch",
+            "mainClass": "nianzhen.HelloWorld",
+            "projectName": "dailyLeetcode_a58b3d5b"
+        }
+    ]
+}
